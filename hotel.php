@@ -1,6 +1,7 @@
 <?php
 
 ?>
+
 <!Doctype html>
 <html lang="pt-br">
 <head>
@@ -29,8 +30,9 @@
         </header>
         <div class="hero">
             <main class="main">
-                <div class="center">
+                <div class="left">
                     <h1>Paradise Hotel</h1>
+                    <p>O melhor hotel do Centro Oeste, próximo ao Aeroporto <br>Internacional de Brasília, um Paraíso para você poder <br>descansar depois de um longo dia de trabalho.<br>Venha se maravilhar conosco!!</p>
                 </div>
             </main>
         </div>

@@ -1,0 +1,34 @@
+*, *::after, *::before{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --cor-primaria: #670D0A;
+    --cor-secundaria: #F3DB56;
+    --cinza-primario: #E9E9E9;
+    --azul-claro: #3C6998;
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background: 0;
+}
+
+a, li{
+    list-style: nome;
+    text-decoration: none;
+}
+
+.header{
+    background: brown;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header ul{
+    display: flex;
+}
