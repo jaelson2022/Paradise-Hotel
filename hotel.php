@@ -31,8 +31,10 @@
         <div class="hero">
             <main class="main">
                 <div class="left">
-                    <h1>Paradise Hotel</h1>
-                    <p>O melhor hotel do Centro Oeste, próximo ao Aeroporto <br>Internacional de Brasília, um Paraíso para você poder <br>descansar depois de um longo dia de trabalho.<br>Venha se maravilhar conosco!!</p>
+                    <center>
+                    <h1>Paradise</h1>
+                    <h1>Hotel</h1>
+                    </center>                               
                 </div>
             </main>
         </div>
