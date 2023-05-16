@@ -31,10 +31,12 @@
         <div class="hero">
             <main class="main">
                 <div class="left">
+                    
                     <center>
                     <h1>Paradise</h1>
                     <h1>Hotel</h1>
-                    </center>                               
+                    </center> 
+                                             
                 </div>
             </main>
         </div>
