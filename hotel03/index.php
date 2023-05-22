@@ -27,7 +27,7 @@
                 </ul>
             </nav>
             <div class="Cadastre-se">
-                <button>Cadstre-se</button>
+                <button>Cadastre-se</button>
                 <button>Login</button>
             </div>            
         </header>
@@ -72,7 +72,7 @@
                         </tr>
                         <tr>
                             <td><button>Lavanderia</button></td>
-                            <td>Quadras</td>
+                            <td>Quadras de Esporte</td>
                             <td>SPA</td>
                         </tr>
                         <tr>
@@ -94,8 +94,8 @@
                 </p></td>
                 <td>Decoração com<br>pétalas de rosas</td>
                 <td>Champagne<br>Brut Moet &<br>Chandon</td>
-                <td>Check-ou as<br>16hs</td>
-                <td>Café da Manhâ<br>servido no<br>Quarto</td>
+                <td>Check-out as<br>14hs</td>
+                <td>Café da Manhâ<br>serviço de<br>quarto</td>
                 <td>Bombons<br>Lindt</td>
             </tr>
         </table>        
