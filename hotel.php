@@ -19,12 +19,23 @@
         <header class="header">
             
             <nav class="nav">
+<<<<<<< HEAD
                 <ul class="header-menu">
                     <li><a href="#home"></a>Home</li>
                     <li><a href="#facilidade"></a>Facilidades</li>
                     <li><a href="#quarto"></a>Quartos</li>
                     <li><a href="#contato"></a>Contatos</li>
                 </ul>                  
+=======
+                <ul>
+                    <li><a href="#"></a>Home</li>
+                    <li><a href="#"></a>Facilidades</li>
+                    <li><a href="#"></a>Quartos</li>
+                    <li><a href="#"></a>Contatos</li>
+                    <li><a href="#"></a>Login</li>
+                </ul>
+                   
+>>>>>>> ab6bf6cb96682499275d9289ea354613a2050073
             </nav>
             <div>
                 <button>Cadastre-se</button>
