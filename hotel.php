@@ -17,29 +17,40 @@
 <body>
     <div class="wrapper">
         <header class="header">
-            <a href="#">Logo</a>
+            
             <nav class="nav">
-                <ul>
-                    <li><a href="#"></a>Home</li>
-                    <li><a href="#"></a>Facilidades</li>
-                    <li><a href="#"></a>Quartos</li>
-                    <li><a href="#"></a>Contatos</li>
-                </ul>
-                   
+                <ul class="header-menu">
+                    <li><a href="#home"></a>Home</li>
+                    <li><a href="#facilidade"></a>Facilidades</li>
+                    <li><a href="#quarto"></a>Quartos</li>
+                    <li><a href="#contato"></a>Contatos</li>
+                </ul>                  
             </nav>
+            <div>
+                <button>Cadastre-se</button>
+                <button>Login</button>
+            </div>
         </header>
         <div class="hero">
             <main class="main">
                 <div class="left">
                     
+                   
                     <center>
-                    <h1>Paradise</h1>
-                    <h1>Hotel</h1>
-                    </center> 
-                                             
+                    <h1><li><a href="#paradise"></a>Paradise</li></h1>
+                    <h1><li><a href="#paradise"></a>Paradise</li></h1>
+                    </center>                         
                 </div>
             </main>
         </div>
     </div>
+    <div>
+            <main>
+                <div>                                                
+                   <p>O melhor hotel do Centro Oeste, próximo ao Aeroporto<br> Internacional de Brasília, um Paraíso para você poder <br>descansar depois de um longo dia de trabalho.<br>Venha se maravilhar conosco!!</p>
+                                         
+                </div>
+                </main>
+        </div>
 </body>    
 </html>

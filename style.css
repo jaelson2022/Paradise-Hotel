@@ -14,8 +14,7 @@
 }
 
 body{
-    background: url(imagens/foto01.jpg) no-repeat;
-    background-size: cover;
+    background: #3C6998;
 }
 
 a, li{
@@ -24,7 +23,10 @@ a, li{
    color: var(--cinza-primario);
 }
 
+
+
 .header{
+    max-width: 1200px;
     display: flex;
     justify-content: space-between;
     align-items: center;
