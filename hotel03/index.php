@@ -31,7 +31,8 @@
                 <button>Login</button>
             </div>            
         </header>
-        <div class="h1">
+        <div>
+            <!--O h1 não é uma classe, o css é utilizado usando a TAG h1 diretamente-->
             <h1>Paradise</h1>
             <h1>Hotel</h1>
         </div>
